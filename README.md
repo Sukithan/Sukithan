@@ -22,7 +22,7 @@
 </div>
 
 ## 🌐 Socials:
-- LinkedIn: [Sukithan Thillainathan](https://linkedin.com/in/sukithan-thillainathan)
+- LinkedIn: [Sukithan Thillainathan](www.linkedin.com/in/sukithan-thillainathan-4112a32a5)
 - Email: [sukithant.22@uom.lk](mailto:sukithant.22@uom.lk)
 
 # 💻 Tech Stack:

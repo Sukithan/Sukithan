@@ -1,10 +1,25 @@
 # 💫 About Me:
-- Hi, I’m Sukithan Thillainathan!
-- Pursuing BSc (Honors) in Computer Science and Engineering at University of Moratuwa
-- Passionate about Full Stack Web Development, Problem Solving and Critical thinking
-- Currently learning deep knowledge of Full-Stack Development frameworks
-- Open to collaborations on web projects & innovative tech solutions
-- Music lover who enjoys singing and feeling the music deeply
+<div align="center">
+  <table>
+    <tr>
+      <td width="70%">
+        <ul>
+          <li>Hi, I'm Sukithan Thillainathan!</li>
+          <li>Pursuing BSc (Honors) in Computer Science and Engineering at University of Moratuwa</li>
+          <li>Passionate about Full Stack Web Development, Problem Solving and Critical thinking</li>
+          <li>Currently learning deep knowledge of Full-Stack Development frameworks</li>
+          <li>Open to collaborations on web projects & innovative tech solutions</li>
+          <li>Music lover who enjoys singing and feeling the music deeply</li>
+        </ul>
+      </td>
+      <td width="30%">
+        <div align="right">
+          <img src="https://github.com/Sukithan/Sukithan/blob/main/githubprof.jpeg" width="400" height="200" style="border-radius: 50%;"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🌐 Socials:
 - LinkedIn: [Sukithan Thillainathan](https://linkedin.com/in/sukithan-thillainathan)
